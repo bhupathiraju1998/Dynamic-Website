@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.background {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.sub-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.para {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 900;
+    padding-right: 5px;
+}
+
+.image {
+    border-radius: 10px;
+    height: 150px;
+}
